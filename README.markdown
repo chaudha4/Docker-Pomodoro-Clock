@@ -2,4 +2,11 @@
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/chaudha4/pen/bGdoJje](https://codepen.io/chaudha4/pen/bGdoJje).
 
+Notes:
+Docker image was created using `docker save pclock-image > pclock-image.tar`
 
+To load docker image from tar `docker load < pclock-image.tar`
+
+To see the new image `docker images`
+
+To run `docker run -it -p 80:80 --rm pclock-image:1.0`
