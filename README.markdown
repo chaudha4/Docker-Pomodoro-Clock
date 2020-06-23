@@ -13,3 +13,5 @@ To load docker image from tar `docker load < pclock-image.tar`
 To see the new image `docker images`
 
 To run `docker run -it -p 80:80 --rm pclock-image:1.0`
+
+The app is available in the browser at localhost:80
