@@ -3,6 +3,7 @@
 A Pen created on CodePen.io. Original URL: [https://codepen.io/chaudha4/pen/bGdoJje](https://codepen.io/chaudha4/pen/bGdoJje).
 
 Notes:
+To run docker as non-root `sudo usermod -aG docker $USER`. Else use sudo with each command below.
 
 Docker image `docker build -f Dockerfile.prod -t pclock-image:1.0 .`
 
