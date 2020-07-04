@@ -16,3 +16,9 @@ To see the new image `docker images`
 To run `docker run -it -p 80:80 --rm pclock-image:1.0`
 
 The app is available in the browser at localhost:80
+
+
+__NPM Notes__
+   * To create a default package.json I used the `npm init` command with the --yes or -y flag.
+   * To install all required npm modules, I ran `npm install` command
+

@@ -1,0 +1,19 @@
+{
+  "name": "pomodoro-clock",
+  "version": "1.0.0",
+  "description": "Pomodoro Clock built with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaudha4/Pomodoro-Clock.git"
+  },
+  "author": "Abhishek Chaudhary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chaudha4/Pomodoro-Clock/issues"
+  },
+  "homepage": "https://github.com/chaudha4/Pomodoro-Clock#readme"
+}
